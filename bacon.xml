@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AOSIP-Devices/device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="upstream/n-mr1" />
+  <project name="Meninblack007/android_device_oppo_common" path="device/oppo/common" remote="github" revision="n-mr1" />
+  <project name="KronicKernel/bacon" path="kernel/oneplus/msm8974" remote="github" revision="n-mr1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
+  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="laos" revision="cm-14.1" />
+  <project name="android_hardware_cyanogen" path="hardware/cyanogen" remote="laos" />
+</manifest>
+

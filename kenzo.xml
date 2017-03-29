@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="ssh://git@github.com/ResurrectionRemix-Devices" name="devices" revision="nougat" />
+  <remote fetch="ssh://git@github.com/akhilnarang" name="akhil" revision="n-mr1" />
+  <project name="kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" remote="devices" />
+  <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="devices" />
+  <project name="device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="akhil" />
+  <project name="device_xiaomi_msm8956-common" path="device/xiaomi/msm8956-common" remote="akhil" />
+  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="laos" revision="cm-14.1" />
+  <project name="android_hardware_cyanogen" path="hardware/cyanogen" remote="laos" />
+</manifest>
+
