@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="devices" revision="nougat" />
+  <project name="Shreeesha/android_device_oppo_common" path="device/oppo/common" remote="github" revision="n7x-caf" />
+  <project name="android_hardware_cyanogen" path="hardware/cyanogen" remote="laos" revision="cm-14.1" />
+  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="laos" revision="cm-14.1" />
+  <project name="Dabug123/KronicCore-OP3-Unified" path="kernel/oneplus/msm8996" remote="github" revision="nougat" />
+  <project name="AOSiP-Devices/aarch64-linux-android-4.9" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-kernel" remote="github" revision="n-mr1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
+</manifest>
